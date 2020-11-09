@@ -6,10 +6,13 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>exercice7</title>
+        <title>exercice8</title>
     </head>
     <body>
     <form method="GET">
+        <p>
+           
+        </p>
             <input type="text"size="" name="count">
                 <input type="submit" value="Envoyer"></p>
             </form>
